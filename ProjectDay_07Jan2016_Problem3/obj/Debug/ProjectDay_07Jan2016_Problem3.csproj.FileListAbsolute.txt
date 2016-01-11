@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\bin\Debug\ProjectDay_07Jan2016_Problem3.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\bin\Debug\ProjectDay_07Jan2016_Problem3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\bin\Debug\ProjectDay_07Jan2016_Problem3.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\obj\Debug\ProjectDay_07Jan2016_Problem3.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\obj\Debug\ProjectDay_07Jan2016_Problem3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ProjectDay_07Jan2016_Problem3\ProjectDay_07Jan2016_Problem3\obj\Debug\ProjectDay_07Jan2016_Problem3.pdb
